@@ -1,3 +1,2 @@
 # DM2021-Lab2-Homework
-Homework 2 for ISA5810 <p>
-Splitting into 2 repo is so inconvenient...
+Homework 2 for ISA5810
